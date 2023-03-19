@@ -1,0 +1,11 @@
+*{ /*estilo de todas as tags da página*/
+    margin: 0; /*tirá a margem ao redor dos elementos na página*/
+    padding: 0; /*espaçamento interno do elemento*/
+    box-sizing: border-box; /*trabalhar melhor no tamanho das caixas*/
+}
+ul{ /*estilo das listas*/
+    list-style: none; /*tirá a estilização da lista*/
+}
+a{ /*estilo dos links*/
+    text-decoration: none; /*sem decoração do texto*/
+}
